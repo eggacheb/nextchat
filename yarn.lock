@@ -2088,10 +2088,10 @@
   resolved "https://registry.npmjs.org/@pkgr/core/-/core-0.1.1.tgz"
   integrity sha512-cq8o4cWH0ibXh9VGi5P20Tu9XF/0fFXl9EUinr9QfTM7a7p0oTA4iJRCQWppXR1Pg8dSM0UCItCkPwsk9qWWYA==
 
-"@qdrant/js-client-rest@^1.8.2":
-  version "1.8.2"
-  resolved "https://registry.yarnpkg.com/@qdrant/js-client-rest/-/js-client-rest-1.8.2.tgz#7ea149c791e6c89da931c5a8fd043f61a97aca56"
-  integrity sha512-BCGC4YRcqjRxXVo500CxjhluPpGO0XpOwojauT8675Duv24YTlkhvDRmc1c9k/df2+yH/typtkecK3VOi3CD7A==
+"@qdrant/js-client-rest@^1.9.0":
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@qdrant/js-client-rest/-/js-client-rest-1.9.0.tgz#deef8acb520f47f9db1c1517758ccf88c12e69fe"
+  integrity sha512-YiX/IskbRCoAY2ujyPDI6FBcO0ygAS4pgkGaJ7DcrJFh4SZV2XHs+u0KM7mO72RWJn1eJQFF2PQwxG+401xxJg==
   dependencies:
     "@qdrant/openapi-typescript-fetch" "1.2.6"
     "@sevinf/maybe" "0.5.0"
