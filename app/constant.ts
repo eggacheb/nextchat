@@ -152,6 +152,8 @@ export const DEFAULT_TTS_VOICES = [
   "onyx",
   "nova",
   "shimmer",
+  "keli_hailuo",
+  "YaeMiko_hailuo",
 ];
 
 export const DEFAULT_STT_ENGINE = "WebAPI";
