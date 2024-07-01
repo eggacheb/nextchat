@@ -2102,10 +2102,10 @@
   resolved "https://registry.yarnpkg.com/@qdrant/openapi-typescript-fetch/-/openapi-typescript-fetch-1.2.6.tgz#c2682a9fa26ded86384f421c991f6c461785af7e"
   integrity sha512-oQG/FejNpItrxRHoyctYvT3rwGZOnK4jr3JdppO/c78ktDvkWiPXPHNsrDf33K9sZdRb6PR7gi4noIapu5q4HA==
 
-"@remix-run/router@1.15.3":
-  version "1.15.3"
-  resolved "https://registry.npmjs.org/@remix-run/router/-/router-1.15.3.tgz"
-  integrity sha512-Oy8rmScVrVxWZVOpEF57ovlnhpZ8CCPlnIIumVcV9nFdiSIrus99+Lw78ekXyGvVDlIsFJbSfmSovJUhCWYV3w==
+"@remix-run/router@1.17.0":
+  version "1.17.0"
+  resolved "https://registry.yarnpkg.com/@remix-run/router/-/router-1.17.0.tgz#fbb0add487478ef42247d5942e7a5d8a2e20095f"
+  integrity sha512-2D6XaHEVvkCn682XBnipbJjgZUU7xjLtA4dGJRBVUKpEaDYOZMENZoZjAOSb7qirxt5RupjzZxz4fK2FO+EFPw==
 
 "@rushstack/eslint-patch@^1.1.3":
   version "1.8.0"
@@ -7487,20 +7487,20 @@ react-redux@^8.1.3:
     react-is "^18.0.0"
     use-sync-external-store "^1.0.0"
 
-react-router-dom@^6.15.0:
-  version "6.22.3"
-  resolved "https://registry.npmjs.org/react-router-dom/-/react-router-dom-6.22.3.tgz"
-  integrity sha512-7ZILI7HjcE+p31oQvwbokjk6OA/bnFxrhJ19n82Ex9Ph8fNAq+Hm/7KchpMGlTgWhUxRHMMCut+vEtNpWpowKw==
+react-router-dom@^6.24.0:
+  version "6.24.0"
+  resolved "https://registry.yarnpkg.com/react-router-dom/-/react-router-dom-6.24.0.tgz#ec49dc38c49bb9bd25b310a8ae849268d3085e1d"
+  integrity sha512-960sKuau6/yEwS8e+NVEidYQb1hNjAYM327gjEyXlc6r3Skf2vtwuJ2l7lssdegD2YjoKG5l8MsVyeTDlVeY8g==
   dependencies:
-    "@remix-run/router" "1.15.3"
-    react-router "6.22.3"
+    "@remix-run/router" "1.17.0"
+    react-router "6.24.0"
 
-react-router@6.22.3:
-  version "6.22.3"
-  resolved "https://registry.npmjs.org/react-router/-/react-router-6.22.3.tgz"
-  integrity sha512-dr2eb3Mj5zK2YISHK++foM9w4eBnO23eKnZEDs7c880P6oKbrjz/Svg9+nxqtHQK+oMW4OtjZca0RqPglXxguQ==
+react-router@6.24.0:
+  version "6.24.0"
+  resolved "https://registry.yarnpkg.com/react-router/-/react-router-6.24.0.tgz#aa46648f26b6525e07f908ad3e1ad2e68d131155"
+  integrity sha512-sQrgJ5bXk7vbcC4BxQxeNa5UmboFm35we1AFK0VvQaz9g0LzxEIuLOhHIoZ8rnu9BO21ishGeL9no1WB76W/eg==
   dependencies:
-    "@remix-run/router" "1.15.3"
+    "@remix-run/router" "1.17.0"
 
 react@^18.2.0:
   version "18.2.0"
